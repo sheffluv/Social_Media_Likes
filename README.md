@@ -1,4 +1,4 @@
-# Social_Media_Likes
+# Social Media Data Analysis
 🧾 Conclusion: Social Media Post Performance Analysis
 
 In this project, I stepped into the role of a data analyst for a social media marketing agency, tasked with uncovering insights from simulated social media post data. The end goal was to assist clients in optimizing their content strategy for maximum reach and engagement.
